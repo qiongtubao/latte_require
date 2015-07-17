@@ -1,0 +1,16 @@
+{
+  "name": "latte_require",
+  "version": "0.0.1",
+  "private": "false",
+  "description": "latte_require",
+	"keywords": ["latte","latte_require"],
+	"author": "qiongtubao",
+	"main": "./lib/index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/qiongtubao/latte_require.git"
+	},
+	"dependencies": {
+
+	}
+}
